@@ -1,0 +1,9 @@
+-- Initialise our NodeJS project 
+-- Initialose our first View
+-- Creae a room ID
+-- Add ability to view our own Video
+--  Add ability to allow others to join the room and stream 
+-- Add styling
+-- Add the ability to Chat
+-- Add mute button
+-- Add stop Video button
