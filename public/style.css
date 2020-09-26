@@ -53,6 +53,8 @@ video{
     display: flex;
     justify-content: space-between;
     padding: 5px;
+    justify-content: space-between;
+
 }
 
 .main__controls__block {
